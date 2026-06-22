@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sumedh 👋
 
-<!--
-**Sumedhmj/Sumedhmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Interested in Embedded Systems and IoT
+* Learning ESP32 and C/C++
+* Exploring sensors, displays and microcontrollers
+* Building practical hardware projects
+
+## Skills
+
+* C Programming
+* Arduino IDE
+* ESP32
+* MPU6050
+* SSD1306 OLED
+* Git & GitHub
+
+## Projects
+
+### ESP32 MPU6050 MultiTool
+
+Features:
+
+* Accelerometer Monitor
+* Gyroscope Monitor
+* Bubble Level
+* Vibrometer
+* Real-Time Vibration Graph
+* OLED Menu Navigation
+
+## Currently Learning
+
+* Embedded Systems Development
+* IoT Applications
+* Git & GitHub
+* Real-Time Sensor Processing
+
+## Goal
+
+To build strong embedded systems and IoT projects and secure internships in the embedded domain.
