@@ -14,8 +14,6 @@ Electronics and Communication Engineering Student
 * C Programming
 * Arduino IDE
 * ESP32
-* MPU6050
-* SSD1306 OLED
 * Git & GitHub
 
 ## Projects
